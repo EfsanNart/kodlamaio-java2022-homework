@@ -7,5 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="week1task"/>
 	<classpathentry kind="src" path="week2task"/>
+	<classpathentry kind="src" path="week3task"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
